@@ -2,7 +2,7 @@
 
 To install and test the SDK locally:
 
-DOnload the repository and create a directory next to the downloaded repository, named testing:
+Download the repository and create a directory next to the downloaded repository, named testing:
 
     mkdir testing
     cd testing
